@@ -1,0 +1,16 @@
+C:\AbstraindoUmjogoDeRPG\bin\Debug\net5.0\AbstraindoUmjogoDeRPG.exe
+C:\AbstraindoUmjogoDeRPG\bin\Debug\net5.0\AbstraindoUmjogoDeRPG.deps.json
+C:\AbstraindoUmjogoDeRPG\bin\Debug\net5.0\AbstraindoUmjogoDeRPG.runtimeconfig.json
+C:\AbstraindoUmjogoDeRPG\bin\Debug\net5.0\AbstraindoUmjogoDeRPG.runtimeconfig.dev.json
+C:\AbstraindoUmjogoDeRPG\bin\Debug\net5.0\AbstraindoUmjogoDeRPG.dll
+C:\AbstraindoUmjogoDeRPG\bin\Debug\net5.0\ref\AbstraindoUmjogoDeRPG.dll
+C:\AbstraindoUmjogoDeRPG\bin\Debug\net5.0\AbstraindoUmjogoDeRPG.pdb
+C:\AbstraindoUmjogoDeRPG\obj\Debug\net5.0\AbstraindoUmjogoDeRPG.csproj.AssemblyReference.cache
+C:\AbstraindoUmjogoDeRPG\obj\Debug\net5.0\AbstraindoUmjogoDeRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\AbstraindoUmjogoDeRPG\obj\Debug\net5.0\AbstraindoUmjogoDeRPG.AssemblyInfoInputs.cache
+C:\AbstraindoUmjogoDeRPG\obj\Debug\net5.0\AbstraindoUmjogoDeRPG.AssemblyInfo.cs
+C:\AbstraindoUmjogoDeRPG\obj\Debug\net5.0\AbstraindoUmjogoDeRPG.csproj.CoreCompileInputs.cache
+C:\AbstraindoUmjogoDeRPG\obj\Debug\net5.0\AbstraindoUmjogoDeRPG.dll
+C:\AbstraindoUmjogoDeRPG\obj\Debug\net5.0\ref\AbstraindoUmjogoDeRPG.dll
+C:\AbstraindoUmjogoDeRPG\obj\Debug\net5.0\AbstraindoUmjogoDeRPG.pdb
+C:\AbstraindoUmjogoDeRPG\obj\Debug\net5.0\AbstraindoUmjogoDeRPG.genruntimeconfig.cache

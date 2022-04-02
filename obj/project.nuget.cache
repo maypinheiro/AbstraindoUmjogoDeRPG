@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hl00hQ0bVT8oNwOn3I8vOI+EkZ1r/EuDjOmNqU80EFAcYCph6541uMk3et9qDSvQ8MaLJ/RIEkfKdk0XHMVFWQ==",
+  "success": true,
+  "projectFilePath": "C:\\AbstraindoUmjogoDeRPG\\AbstraindoUmjogoDeRPG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LGGRAM\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LGGRAM\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
